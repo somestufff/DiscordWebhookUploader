@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebhookUploader", "WebhookUploader\WebhookUploader.csproj", "{91A107D1-17A4-465E-9CCD-7D12EE50AA54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91A107D1-17A4-465E-9CCD-7D12EE50AA54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91A107D1-17A4-465E-9CCD-7D12EE50AA54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91A107D1-17A4-465E-9CCD-7D12EE50AA54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91A107D1-17A4-465E-9CCD-7D12EE50AA54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F79463AC-A81E-44DA-B849-6FCF7BD3C05A}
+	EndGlobalSection
+EndGlobal
